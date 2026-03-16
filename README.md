@@ -1,7 +1,7 @@
 # JournalTOCs Website Redesign 
-A front-end redesign of the JOurnalTOCs academic journal platform, built as a group University project for our web design module. 
+A front-end redesign of the JournalTOCs academic journal platform, built as a group University project for our web design module. 
 
-# My COntributions 
+# My Contributions 
 - Built the entire front-end: HTML structure, CSS styling, and JavaScript functionality
 - Implemented full mobile responsiveness across all screen sizes and devices
 - Modernised the UI for cleaner navigation and improved usability
